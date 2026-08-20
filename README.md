@@ -48,6 +48,8 @@
 
 <img src="assets/aima-contents.svg" width="740" alt="Artificial Intelligence: A Modern Approach — Contents, highlighting 2.2 Good Behavior and 5. Adversarial Search">
 
+<sub>⚠ *Note — Actually, I really like the overall content of this book.*</sub>
+
 </div>
 
 <br>
