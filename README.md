@@ -2,7 +2,9 @@
 
 <br>
 
-# 경01 Min · Sophia Min
+# 경01 Min
+
+<em>My English name is Sophia Min.</em>
 
 <em>Philo_Sophia_Min_Max</em>
 
