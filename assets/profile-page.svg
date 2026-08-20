@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1590" viewBox="0 0 800 1590">
+  <!-- one continuous parchment page: Sand ground, Moss + Wood double frame -->
+  <rect x="1" y="1" width="798" height="1588" fill="#E8E2DA" stroke="#31331f" stroke-width="1.5"/>
+  <rect x="14" y="14" width="772" height="1562" fill="none" stroke="#b9ad94" stroke-width="0.8"/>
+
+  <g font-family="Georgia, 'Times New Roman', Batang, 'Nanum Myeongjo', serif">
+
+    <!-- ============ NAME ============ -->
+    <text x="400" y="112" text-anchor="middle" font-size="44" fill="#31331f">경<tspan font-family="'Century Gothic', Futura, 'Segoe UI', Arial, sans-serif" letter-spacing="-4">01</tspan> Min</text>
+    <text x="400" y="150" text-anchor="middle" font-size="15" font-style="italic" fill="#4b4e3a">My English name is Sophia Min.</text>
+
+    <line x1="300" y1="182" x2="382" y2="182" stroke="#b9ad94" stroke-width="1"/>
+    <text x="400" y="186.5" text-anchor="middle" font-size="10" fill="#645d3b">&#9670;</text>
+    <line x1="418" y1="182" x2="500" y2="182" stroke="#b9ad94" stroke-width="1"/>
+
+    <!-- ============ I. MY GOAL OR OBJECTIVE ============ -->
+    <rect x="260" y="212" width="280" height="30" rx="2" fill="#645d3b"/>
+    <text x="400" y="232" text-anchor="middle" font-size="12.5" letter-spacing="3" fill="#EFEAE0">&#8544;&#160;&#160;·&#160;&#160;MY GOAL OR OBJECTIVE</text>
+
+    <text x="400" y="278" text-anchor="middle" font-size="15" font-style="italic" fill="#4b4e3a">&#8220;Whenever I was having a hard time, I reminded myself of this and got back on my feet.&#8221;</text>
+
+    <text x="400" y="312" text-anchor="middle" font-size="12" letter-spacing="3" fill="#8a7f63">OPTIMIZING OBJECTIVE FUNCTIONS</text>
+
+    <text x="260" y="368" font-size="30" font-style="italic" fill="#31331f">X<tspan font-size="18" dy="-13">&#8902;</tspan><tspan dy="13" font-style="normal">&#160;=&#160;arg&#160;min</tspan><tspan>&#160;&#160;F</tspan><tspan font-style="normal">&#160;(</tspan><tspan>X&#8242;</tspan><tspan font-style="normal">)&#160;.</tspan></text>
+    <text x="385" y="396" text-anchor="middle" font-size="15" font-style="italic" fill="#31331f">X&#8242; &#8712; &#119987;</text>
+
+    <text x="270" y="442" font-size="17" font-weight="bold" fill="#645d3b">minimizing<tspan font-size="11" dy="-7" font-weight="normal" fill="#8a7f63">1</tspan></text>
+    <text x="270" y="472" font-size="16" fill="#31331f">an <tspan font-weight="bold" fill="#645d3b">objective function</tspan> <tspan font-style="italic">F(X)</tspan></text>
+    <text x="270" y="502" font-size="16" fill="#31331f"><tspan font-weight="bold" fill="#645d3b">configurations</tspan>, <tspan font-style="italic">&#119987;</tspan></text>
+
+    <line x1="300" y1="528" x2="500" y2="528" stroke="#9a9078" stroke-width="0.8"/>
+    <text x="400" y="550" text-anchor="middle" font-size="12" fill="#6e6754"><tspan font-size="9" dy="-4">1</tspan><tspan dy="4">&#160;We could also </tspan><tspan font-style="italic">maximize</tspan><tspan> the same objective by replacing </tspan><tspan font-style="italic">F(x)</tspan><tspan> with </tspan><tspan font-style="italic">&#8722;F(x)</tspan><tspan>, and the problem would be unchanged.</tspan></text>
+
+    <line x1="300" y1="586" x2="382" y2="586" stroke="#b9ad94" stroke-width="1"/>
+    <text x="400" y="590.5" text-anchor="middle" font-size="10" fill="#645d3b">&#9670;</text>
+    <line x1="418" y1="586" x2="500" y2="586" stroke="#b9ad94" stroke-width="1"/>
+
+    <!-- ============ II. WORDS ============ -->
+    <rect x="280" y="616" width="240" height="30" rx="2" fill="#645d3b"/>
+    <text x="400" y="636" text-anchor="middle" font-size="12.5" letter-spacing="3" fill="#EFEAE0">&#8545;&#160;&#160;·&#160;&#160;I LIKE THE WORDS</text>
+
+    <text x="400" y="684" text-anchor="middle" font-size="16" font-weight="bold" letter-spacing="1" fill="#31331f">&#8220;Behavio(u)r / Action&#8221;</text>
+    <text x="400" y="710" text-anchor="middle" font-size="14" font-style="italic" fill="#4b4e3a">Behavior of living organisms (humans, animals&#8230;)&#160;&#160;<tspan font-style="normal" font-weight="bold" fill="#645d3b">VS.</tspan>&#160;&#160;Behavior of non-living things (AI, robots&#8230;)</text>
+
+    <text x="400" y="754" text-anchor="middle" font-size="16" font-weight="bold" letter-spacing="1" fill="#31331f">&#8220;Adversarial Search&#8221;</text>
+    <text x="400" y="780" text-anchor="middle" font-size="14" font-style="italic" fill="#4b4e3a">Ever since I was young, I enjoyed learning about things that held completely opposite information.</text>
+    <text x="400" y="804" text-anchor="middle" font-size="12.5" font-style="italic" fill="#8a7f63">ex)&#160;&#160;Min&#160;&#160;<tspan font-style="normal" font-weight="bold" fill="#645d3b">VS.</tspan>&#160;&#160;Max</text>
+
+    <!-- ============ THE BOOK (Oat inset panel) ============ -->
+    <rect x="70" y="836" width="660" height="470" fill="#d8cdbc" stroke="#b9ad94" stroke-width="0.8"/>
+
+    <text x="400" y="886" text-anchor="middle" font-size="22" letter-spacing="4" fill="#31331f">ARTIFICIAL INTELLIGENCE</text>
+    <text x="400" y="912" text-anchor="middle" font-size="15" font-style="italic" fill="#645d3b">A Modern Approach</text>
+    <text x="400" y="936" text-anchor="middle" font-size="14" fill="#4b4e3a">Stuart Russell&#160;&#160;·&#160;&#160;Peter Norvig</text>
+    <text x="400" y="956" text-anchor="middle" font-size="11" letter-spacing="3" fill="#645d3b">THIRD EDITION</text>
+
+    <line x1="310" y1="972" x2="382" y2="972" stroke="#a89c82" stroke-width="1"/>
+    <text x="400" y="976" text-anchor="middle" font-size="9" fill="#645d3b">&#9670;</text>
+    <line x1="418" y1="972" x2="490" y2="972" stroke="#a89c82" stroke-width="1"/>
+
+    <text x="400" y="1000" text-anchor="middle" font-size="12" letter-spacing="6" fill="#6e6754">CONTENTS</text>
+
+    <!-- Part I -->
+    <text x="110" y="1032" font-size="13" letter-spacing="2" fill="#4b4e3a" font-weight="bold">PART&#160;&#160;&#8544;&#160;&#160;·&#160;&#160;ARTIFICIAL INTELLIGENCE</text>
+
+    <text x="110" y="1059" font-size="14.5" fill="#9a9078">1&#160;&#160;&#160;Introduction</text>
+    <line x1="240" y1="1054" x2="655" y2="1054" stroke="#b9ad94" stroke-width="1.3" stroke-dasharray="1 6" stroke-linecap="round"/>
+    <text x="690" y="1059" text-anchor="end" font-size="14.5" fill="#9a9078">1</text>
+
+    <text x="110" y="1086" font-size="14.5" fill="#31331f">2&#160;&#160;&#160;Intelligent Agents</text>
+    <line x1="285" y1="1081" x2="655" y2="1081" stroke="#b9ad94" stroke-width="1.3" stroke-dasharray="1 6" stroke-linecap="round"/>
+    <text x="690" y="1086" text-anchor="end" font-size="14.5" fill="#31331f">34</text>
+
+    <!-- highlighted: 2.2 Good Behavior (Moss band, Sand text) -->
+    <rect x="95" y="1096" width="610" height="26" rx="3" fill="#31331f"/>
+    <text x="82" y="1115" font-size="14" fill="#645d3b">&#10087;</text>
+    <text x="128" y="1114" font-size="14.5" font-weight="bold" fill="#E8E2DA">2.2&#160;&#160;Good Behavior: <tspan font-style="italic">The Concept of Rationality</tspan></text>
+    <line x1="490" y1="1109" x2="650" y2="1109" stroke="#6b6d55" stroke-width="1.3" stroke-dasharray="1 6" stroke-linecap="round"/>
+    <text x="690" y="1114" text-anchor="end" font-size="14.5" font-weight="bold" fill="#E8E2DA">36</text>
+
+    <!-- Part II -->
+    <text x="110" y="1156" font-size="13" letter-spacing="2" fill="#4b4e3a" font-weight="bold">PART&#160;&#160;&#8545;&#160;&#160;·&#160;&#160;PROBLEM-SOLVING</text>
+
+    <text x="110" y="1183" font-size="14.5" fill="#9a9078">3&#160;&#160;&#160;Solving Problems by Searching</text>
+    <line x1="350" y1="1178" x2="655" y2="1178" stroke="#b9ad94" stroke-width="1.3" stroke-dasharray="1 6" stroke-linecap="round"/>
+    <text x="690" y="1183" text-anchor="end" font-size="14.5" fill="#9a9078">64</text>
+
+    <text x="110" y="1210" font-size="14.5" fill="#9a9078">4&#160;&#160;&#160;Beyond Classical Search</text>
+    <line x1="308" y1="1205" x2="655" y2="1205" stroke="#b9ad94" stroke-width="1.3" stroke-dasharray="1 6" stroke-linecap="round"/>
+    <text x="690" y="1210" text-anchor="end" font-size="14.5" fill="#9a9078">120</text>
+
+    <!-- highlighted: 5 Adversarial Search -->
+    <rect x="95" y="1220" width="610" height="26" rx="3" fill="#31331f"/>
+    <text x="82" y="1239" font-size="14" fill="#645d3b">&#10087;</text>
+    <text x="110" y="1238" font-size="14.5" font-weight="bold" fill="#E8E2DA">5&#160;&#160;&#160;<tspan font-style="italic">Adversarial Search</tspan></text>
+    <line x1="290" y1="1233" x2="650" y2="1233" stroke="#6b6d55" stroke-width="1.3" stroke-dasharray="1 6" stroke-linecap="round"/>
+    <text x="690" y="1238" text-anchor="end" font-size="14.5" font-weight="bold" fill="#E8E2DA">161</text>
+
+    <!-- book notes -->
+    <text x="400" y="1272" text-anchor="middle" font-size="12" font-style="italic" fill="#6e6754">&#8224; In the Fourth Edition, &#8220;5. Adversarial Search&#8221; was retitled &#8220;6. Adversarial Search and Games.&#8221;</text>
+    <text x="400" y="1294" text-anchor="middle" font-size="12" font-style="italic" fill="#645d3b">&#8251; Note &#8212; Actually, I really like the overall content of this book.</text>
+
+    <!-- ============ III. INTERESTS ============ -->
+    <rect x="210" y="1336" width="380" height="30" rx="2" fill="#645d3b"/>
+    <text x="400" y="1356" text-anchor="middle" font-size="12.5" letter-spacing="3" fill="#EFEAE0">&#8546;&#160;&#160;·&#160;&#160;I LIKE ANYTHING THAT UTILIZES AI</text>
+
+    <text x="400" y="1404" text-anchor="middle" font-size="16" fill="#31331f">LLM&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;NLP&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;RAG&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Search &amp; Optimization</text>
+    <text x="400" y="1434" text-anchor="middle" font-size="16" fill="#31331f">Evolutionary Computation&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Quantum Computer&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Digital Twin&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;&#8943;</text>
+
+    <line x1="300" y1="1468" x2="382" y2="1468" stroke="#b9ad94" stroke-width="1"/>
+    <text x="400" y="1472.5" text-anchor="middle" font-size="10" fill="#645d3b">&#9670;</text>
+    <line x1="418" y1="1468" x2="500" y2="1468" stroke="#b9ad94" stroke-width="1"/>
+
+    <!-- closing -->
+    <text x="400" y="1512" text-anchor="middle" font-size="17" font-style="italic" fill="#4b4e3a">I see the real world in 0 and 1.</text>
+    <text x="400" y="1546" text-anchor="middle" font-size="17" font-style="italic" fill="#4b4e3a">That is why I am <tspan font-style="normal" font-weight="bold" fill="#31331f">경<tspan font-family="'Century Gothic', Futura, 'Segoe UI', Arial, sans-serif" letter-spacing="-1.5">01</tspan> Min</tspan>.</text>
+
+  </g>
+</svg>
