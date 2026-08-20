@@ -37,6 +37,8 @@
 
 ## Ⅱ. &nbsp;I like the words *“Behavio(u)r / Action ”* and *“Adversarial Search”*
 
+> *Behavio(u)r / Action: Behavior of living organisms (humans, animals&#8230;) &nbsp;**VS.**&nbsp; Behavior of non-living things (AI, robots&#8230;)*
+>
 > *Adversarial search: Ever since I was young, I enjoyed learning about things that held completely opposite information.*
 
 <div align="center">
