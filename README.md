@@ -30,7 +30,7 @@ X^{\star} = \underset{X' \in \mathcal{X}}{\arg\min} F\left(X'\right).
 
 ---
 
-## Ⅱ. &nbsp;I like the words *“Action”*, *“Behavio(u)r”* and *“Adversarial Search”*
+## Ⅱ. &nbsp;I like the words *“Behavio(u)r / Action ”* and *“Adversarial Search”*
 
 > *Ever since I was young, I enjoyed learning about things that held completely opposite information.*
 
