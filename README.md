@@ -28,6 +28,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;$`{\color{#1f4bb8}\textbf{configurations}}`$, $`\mathcal{X}`$
 
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>────────────────────</sub><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<sub><sup>1</sup> We could also <em>maximize</em> the same objective by replacing $`F(x)`$ with $`-F(x)`$, and the problem would be unchanged.</sub>
+
 <br>
 
 ---
