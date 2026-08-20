@@ -65,5 +65,16 @@
 **LLM** &nbsp;·&nbsp; **NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Search &amp; Optimization** &nbsp;·&nbsp; **Evolutionary Computation** &nbsp;·&nbsp; **Quantum Computer** &nbsp;·&nbsp; **Digital Twin** &nbsp;·&nbsp; ⋯
 
 <br>
+<br>
+
+———&nbsp;&nbsp;·&nbsp;&nbsp;———
+
+<br>
+
+*I see the real world in 0s and 1s.*
+
+*That is why I am* ***경01 Min****.*
+
+<br>
 
 </div>
