@@ -48,7 +48,7 @@
 
 <img src="assets/aima-contents.svg" width="740" alt="Artificial Intelligence: A Modern Approach — Contents, highlighting 2.2 Good Behavior and 5. Adversarial Search">
 
-<sub>⚠ *Note — Actually, I really like the overall content of this book.*</sub>
+<sub>※ *Note — Actually, I really like the overall content of this book.*</sub>
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <br>
 
-**LLM** &nbsp;·&nbsp; **NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Search &amp; Optimization** &nbsp;·&nbsp; **Digital Twin** &nbsp;·&nbsp; ⋯
+**LLM** &nbsp;·&nbsp; **NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Search &amp; Optimization** &nbsp;·&nbsp; **Evolutionary Computation** &nbsp;·&nbsp; **Quantum Computer** &nbsp;·&nbsp; **Digital Twin** &nbsp;·&nbsp; ⋯
 
 <br>
 
