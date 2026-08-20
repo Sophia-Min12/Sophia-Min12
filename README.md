@@ -2,78 +2,23 @@
 
 <br>
 
-# 경01 Min
+<img src="assets/01-header.svg" width="760" alt="경01 Min — My English name is Sophia Min.">
 
-<em>My English name is Sophia Min.</em>
+<br><br>
 
+<img src="assets/02-objective.svg" width="760" alt="Ⅰ. My Goal or Objective — X⋆ = arg min F(X′): minimizing an objective function F(X) over all possible configurations 𝒳.">
 
+<br><br>
 
-</div>
+<img src="assets/03-words.svg" width="760" alt="Ⅱ. I like the words “Behavio(u)r / Action” and “Adversarial Search” — behavior of living organisms VS. non-living things; ex) Min VS. Max.">
 
-<br>
+<br><br>
 
-## Ⅰ. &nbsp;My Goal or Objective
+<img src="assets/04-aima-contents.svg" width="760" alt="Artificial Intelligence: A Modern Approach (Russell · Norvig, Third Edition) — Contents, highlighting 2.2 Good Behavior and 5. Adversarial Search.">
 
-> *Whenever I was having a hard time, I reminded myself of this and got back on my feet.*
+<br><br>
 
-<h4 align="center"><em>Optimizing objective functions</em></h4>
-
-```math
-\huge X^{\star} = \underset{X' \in \mathcal{X}}{\arg\min} F\left(X'\right).
-```
-
-&nbsp;&nbsp;&nbsp;&nbsp;$`{\color{#1f4bb8}\textbf{minimizing}}^{1}`$
-
-&nbsp;&nbsp;&nbsp;&nbsp;an $`{\color{#1f4bb8}\textbf{objective function}}`$ $`F(X)`$
-
-&nbsp;&nbsp;&nbsp;&nbsp;$`{\color{#1f4bb8}\textbf{configurations}}`$, $`\mathcal{X}`$
-
-&nbsp;&nbsp;&nbsp;&nbsp;<sub>────────────────────</sub><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<sub><sup>1</sup> We could also <em>maximize</em> the same objective by replacing $`F(x)`$ with $`-F(x)`$, and the problem would be unchanged.</sub>
-
-<br>
-
----
-
-## Ⅱ. &nbsp;I like the words *“Behavio(u)r / Action ”* and *“Adversarial Search”*
-
-> *Behavio(u)r / Action: Behavior of living organisms (humans, animals&#8230;) &nbsp;**VS.**&nbsp; Behavior of non-living things (AI, robots&#8230;)*
->
-> *Adversarial search: Ever since I was young, I enjoyed learning about things that held completely opposite information.*<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;<sub>*ex) Min &nbsp;**VS.**&nbsp; Max*</sub>
-
-<div align="center">
-
-<br>
-
-<img src="assets/aima-contents.svg" width="740" alt="Artificial Intelligence: A Modern Approach — Contents, highlighting 2.2 Good Behavior and 5. Adversarial Search">
-
-<sub>※ *Note — Actually, I really like the overall content of this book.*</sub>
-
-</div>
-
-<br>
-
----
-
-## Ⅲ. &nbsp;I like anything that utilizes AI
-
-<div align="center">
-
-<br>
-
-**LLM** &nbsp;·&nbsp; **NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Search &amp; Optimization** &nbsp;·&nbsp; **Evolutionary Computation** &nbsp;·&nbsp; **Quantum Computer** &nbsp;·&nbsp; **Digital Twin** &nbsp;·&nbsp; ⋯
-
-<br>
-<br>
-
-———&nbsp;&nbsp;·&nbsp;&nbsp;———
-
-<br>
-
-*I see the real world in 0s and 1s.*
-
-*That is why I am* ***경01 Min****.*
+<img src="assets/05-interests.svg" width="760" alt="Ⅲ. I like anything that utilizes AI — LLM · NLP · RAG · Search &amp; Optimization · Evolutionary Computation · Quantum Computer · Digital Twin. I see the real world in 0s and 1s. That is why I am 경01 Min.">
 
 <br>
 
