@@ -116,7 +116,7 @@
 
     <text x="400" y="1426" text-anchor="middle" font-size="18" font-style="italic" fill="#4b4e3a">Research, AI &amp; Full-Stack Developer</text>
 
-    <text x="400" y="1456" text-anchor="middle" font-size="13.5" fill="#31331f">LLM&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;NLP&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;RAG&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Search &amp; Optimization</text>
+    <text x="400" y="1456" text-anchor="middle" font-size="13.5" fill="#31331f">LLM&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;NLP&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;RAG&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Health Care&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Physical AI&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Search &amp; Optimization</text>
     <text x="400" y="1480" text-anchor="middle" font-size="13.5" fill="#31331f">Evolutionary Computation&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Quantum Computer&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Digital Twin&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;&#8943;</text>
 
     <line x1="300" y1="1502" x2="382" y2="1502" stroke="#b9ad94" stroke-width="1"/>
