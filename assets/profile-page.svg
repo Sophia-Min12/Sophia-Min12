@@ -49,8 +49,8 @@
     <text x="400" y="780" text-anchor="middle" font-size="14" font-style="italic" fill="#4b4e3a">Ever since I was young, I enjoyed learning about things that held completely opposite information.</text>
     <text x="400" y="804" text-anchor="middle" font-size="12.5" font-style="italic" fill="#8a7f63">ex)&#160;&#160;Min&#160;&#160;<tspan font-style="normal" font-weight="bold" fill="#645d3b">VS.</tspan>&#160;&#160;Max</text>
 
-    <!-- ============ THE BOOK (hardcover, slightly tilted) ============ -->
-    <g transform="rotate(-0.7 400 1090)">
+    <!-- ============ THE BOOK (hardcover) ============ -->
+    <g>
     <!-- cover boards -->
     <rect x="52" y="822" width="702" height="526" rx="4" fill="#31331f" filter="url(#bookshadow)"/>
     <!-- spine with gilt bands -->
@@ -72,8 +72,6 @@
     <line x1="78" y1="1337" x2="742" y2="1337" stroke="#c9bda6" stroke-width="0.7"/>
     <line x1="78" y1="1339.5" x2="742" y2="1339.5" stroke="#b9ad94" stroke-width="0.7"/>
     <line x1="78" y1="1342" x2="742" y2="1342" stroke="#c9bda6" stroke-width="0.7"/>
-    <!-- bookmark ribbon -->
-    <polygon points="636,1338 652,1338 652,1366 644,1357 636,1366" fill="#645d3b" stroke="#4b4e3a" stroke-width="0.6"/>
     <!-- top page with gutter shading -->
     <rect x="70" y="836" width="660" height="496" fill="#d8cdbc" stroke="#8a7f63" stroke-width="0.9"/>
     <rect x="70" y="836" width="9" height="496" fill="#c9bda9" opacity="0.6"/>
