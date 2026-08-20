@@ -39,7 +39,8 @@
 
 > *Behavio(u)r / Action: Behavior of living organisms (humans, animals&#8230;) &nbsp;**VS.**&nbsp; Behavior of non-living things (AI, robots&#8230;)*
 >
-> *Adversarial search: Ever since I was young, I enjoyed learning about things that held completely opposite information.*
+> *Adversarial search: Ever since I was young, I enjoyed learning about things that held completely opposite information.*<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;<sub>*ex) Min &nbsp;**VS.**&nbsp; Max*</sub>
 
 <div align="center">
 
