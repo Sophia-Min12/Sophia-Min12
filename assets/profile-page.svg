@@ -18,7 +18,7 @@
     <line x1="70" y1="184" x2="730" y2="184" stroke="#b9ad94" stroke-width="0.7"/>
 
     <!-- ============ I. MY GOAL OR OBJECTIVE ============ -->
-    <rect x="260" y="212" width="280" height="30" rx="2" fill="#645d3b"/>
+    <rect x="190" y="212" width="420" height="30" rx="2" fill="#645d3b"/>
     <text x="400" y="232" text-anchor="middle" font-size="12.5" letter-spacing="3" fill="#EFEAE0">&#8544;&#160;&#160;·&#160;&#160;MY GOAL OR OBJECTIVE</text>
 
     <text x="400" y="278" text-anchor="middle" font-size="15" font-style="italic" fill="#4b4e3a">&#8220;Whenever I was having a hard time, I reminded myself of this and got back on my feet.&#8221;</text>
@@ -32,14 +32,14 @@
     <text x="270" y="472" font-size="16" fill="#31331f">an <tspan font-weight="bold" fill="#645d3b">objective function</tspan> <tspan font-style="italic">F(X)</tspan></text>
     <text x="270" y="502" font-size="16" fill="#31331f"><tspan font-weight="bold" fill="#645d3b">configurations</tspan>, <tspan font-style="italic">&#119987;</tspan></text>
 
-    <line x1="300" y1="528" x2="500" y2="528" stroke="#9a9078" stroke-width="0.8"/>
+    <line x1="220" y1="528" x2="580" y2="528" stroke="#9a9078" stroke-width="0.8"/>
     <text x="400" y="550" text-anchor="middle" font-size="12" fill="#6e6754"><tspan font-size="9" dy="-4">1</tspan><tspan dy="4">&#160;We could also </tspan><tspan font-style="italic">maximize</tspan><tspan> the same objective by replacing </tspan><tspan font-style="italic">F(x)</tspan><tspan> with </tspan><tspan font-style="italic">&#8722;F(x)</tspan><tspan>, and the problem would be unchanged.</tspan></text>
 
     <line x1="70" y1="584" x2="730" y2="584" stroke="#645d3b" stroke-width="1.4"/>
     <line x1="70" y1="588" x2="730" y2="588" stroke="#b9ad94" stroke-width="0.7"/>
 
     <!-- ============ II. WORDS ============ -->
-    <rect x="280" y="616" width="240" height="30" rx="2" fill="#645d3b"/>
+    <rect x="190" y="616" width="420" height="30" rx="2" fill="#645d3b"/>
     <text x="400" y="636" text-anchor="middle" font-size="12.5" letter-spacing="3" fill="#EFEAE0">&#8545;&#160;&#160;·&#160;&#160;I LIKE THE WORDS</text>
 
     <text x="400" y="684" text-anchor="middle" font-size="16" font-weight="bold" letter-spacing="1" fill="#31331f">&#8220;Behavio(u)r / Action&#8221;</text>
@@ -122,7 +122,7 @@
     <line x1="70" y1="1376" x2="730" y2="1376" stroke="#645d3b" stroke-width="1.4"/>
     <line x1="70" y1="1380" x2="730" y2="1380" stroke="#b9ad94" stroke-width="0.7"/>
 
-    <rect x="210" y="1394" width="380" height="30" rx="2" fill="#645d3b"/>
+    <rect x="190" y="1394" width="420" height="30" rx="2" fill="#645d3b"/>
     <text x="400" y="1414" text-anchor="middle" font-size="12.5" letter-spacing="3" fill="#EFEAE0">&#8546;&#160;&#160;·&#160;&#160;I LIKE ANYTHING THAT UTILIZES AI</text>
 
     <text x="400" y="1450" text-anchor="middle" font-size="18" font-style="italic" fill="#4b4e3a">Research, AI &amp; Full-Stack Developer</text>
