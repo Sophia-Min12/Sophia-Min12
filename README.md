@@ -6,7 +6,7 @@
 
 <em>My English name is Sophia Min.</em>
 
-<em>Philo_Sophia_Min_Max</em>
+
 
 </div>
 
