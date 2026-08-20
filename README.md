@@ -17,7 +17,7 @@
 <h4 align="center"><em>Optimizing objective functions</em></h4>
 
 ```math
-X^{\star} = \underset{X' \in \mathcal{X}}{\arg\min} F\left(X'\right).
+\huge X^{\star} = \underset{X' \in \mathcal{X}}{\arg\min} F\left(X'\right).
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;$`{\color{#1f4bb8}\textbf{minimizing}}^{1}`$
