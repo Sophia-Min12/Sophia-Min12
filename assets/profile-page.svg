@@ -4,7 +4,7 @@
   <rect x="14" y="14" width="772" height="1592" fill="none" stroke="#b9ad94" stroke-width="0.8"/>
   <defs>
     <filter id="bookshadow" x="-10%" y="-10%" width="125%" height="125%">
-      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#31331f" flood-opacity="0.28"/>
+      <feDropShadow dx="3" dy="7" stdDeviation="8" flood-color="#31331f" flood-opacity="0.32"/>
     </filter>
   </defs>
 
@@ -50,9 +50,22 @@
     <text x="400" y="804" text-anchor="middle" font-size="12.5" font-style="italic" fill="#8a7f63">ex)&#160;&#160;Min&#160;&#160;<tspan font-style="normal" font-weight="bold" fill="#645d3b">VS.</tspan>&#160;&#160;Max</text>
 
     <!-- ============ THE BOOK (dimensional page stack) ============ -->
-    <rect x="82" y="848" width="660" height="496" fill="#cfc3ae" stroke="#a89c82" stroke-width="0.8"/>
-    <rect x="76" y="842" width="660" height="496" fill="#d4c9b6" stroke="#a89c82" stroke-width="0.8"/>
-    <rect x="70" y="836" width="660" height="496" fill="#d8cdbc" stroke="#8a7f63" stroke-width="1.2" filter="url(#bookshadow)"/>
+    <!-- hardcover (Moss) with spine grooves on the left -->
+    <rect x="54" y="824" width="690" height="518" rx="3" fill="#31331f" filter="url(#bookshadow)"/>
+    <line x1="60" y1="832" x2="60" y2="1334" stroke="#645d3b" stroke-width="0.9"/>
+    <line x1="65" y1="832" x2="65" y2="1334" stroke="#4b4e3a" stroke-width="0.9"/>
+    <!-- page fore-edges: right side -->
+    <rect x="730" y="830" width="10" height="506" fill="#e6ddcb"/>
+    <line x1="733" y1="832" x2="733" y2="1334" stroke="#b9ad94" stroke-width="0.7"/>
+    <line x1="735.5" y1="832" x2="735.5" y2="1334" stroke="#c9bda6" stroke-width="0.7"/>
+    <line x1="738" y1="832" x2="738" y2="1334" stroke="#b9ad94" stroke-width="0.7"/>
+    <!-- page fore-edges: bottom -->
+    <rect x="70" y="1332" width="670" height="8" fill="#e6ddcb"/>
+    <line x1="72" y1="1334" x2="738" y2="1334" stroke="#b9ad94" stroke-width="0.7"/>
+    <line x1="72" y1="1336.5" x2="738" y2="1336.5" stroke="#c9bda6" stroke-width="0.7"/>
+    <line x1="72" y1="1339" x2="738" y2="1339" stroke="#b9ad94" stroke-width="0.7"/>
+    <!-- top page -->
+    <rect x="70" y="836" width="660" height="496" fill="#d8cdbc" stroke="#8a7f63" stroke-width="0.9"/>
     <rect x="84" y="848" width="632" height="476" fill="none" stroke="#c6ba9f" stroke-width="0.7"/>
 
     <text x="400" y="886" text-anchor="middle" font-size="22" letter-spacing="4" fill="#31331f">ARTIFICIAL INTELLIGENCE</text>
