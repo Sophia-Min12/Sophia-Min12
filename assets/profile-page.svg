@@ -51,27 +51,15 @@
 
     <!-- ============ THE BOOK (hardcover) ============ -->
     <g>
-    <!-- cover boards -->
-    <rect x="52" y="822" width="702" height="526" rx="4" fill="#31331f" filter="url(#bookshadow)"/>
+    <!-- cover board: even border around the page -->
+    <rect x="54" y="824" width="692" height="520" rx="4" fill="#31331f" filter="url(#bookshadow)"/>
     <!-- spine with gilt bands -->
-    <rect x="52" y="822" width="22" height="526" rx="4" fill="#262819"/>
-    <line x1="73" y1="828" x2="73" y2="1342" stroke="#4b4e3a" stroke-width="1"/>
-    <line x1="56" y1="854" x2="70" y2="854" stroke="#9c8a5a" stroke-width="1.2"/>
-    <line x1="56" y1="859" x2="70" y2="859" stroke="#9c8a5a" stroke-width="0.8"/>
-    <line x1="56" y1="1312" x2="70" y2="1312" stroke="#9c8a5a" stroke-width="0.8"/>
-    <line x1="56" y1="1317" x2="70" y2="1317" stroke="#9c8a5a" stroke-width="1.2"/>
-    <!-- page fore-edges: right side -->
-    <rect x="730" y="830" width="14" height="510" fill="#e6ddcb"/>
-    <line x1="732.5" y1="832" x2="732.5" y2="1338" stroke="#b9ad94" stroke-width="0.7"/>
-    <line x1="735" y1="832" x2="735" y2="1338" stroke="#c9bda6" stroke-width="0.7"/>
-    <line x1="737.5" y1="832" x2="737.5" y2="1338" stroke="#b9ad94" stroke-width="0.7"/>
-    <line x1="740" y1="832" x2="740" y2="1338" stroke="#c9bda6" stroke-width="0.7"/>
-    <!-- page fore-edges: bottom -->
-    <rect x="76" y="1332" width="668" height="12" fill="#e6ddcb"/>
-    <line x1="78" y1="1334.5" x2="742" y2="1334.5" stroke="#b9ad94" stroke-width="0.7"/>
-    <line x1="78" y1="1337" x2="742" y2="1337" stroke="#c9bda6" stroke-width="0.7"/>
-    <line x1="78" y1="1339.5" x2="742" y2="1339.5" stroke="#b9ad94" stroke-width="0.7"/>
-    <line x1="78" y1="1342" x2="742" y2="1342" stroke="#c9bda6" stroke-width="0.7"/>
+    <rect x="54" y="824" width="22" height="520" rx="4" fill="#262819"/>
+    <line x1="75" y1="830" x2="75" y2="1338" stroke="#4b4e3a" stroke-width="1"/>
+    <line x1="58" y1="854" x2="72" y2="854" stroke="#9c8a5a" stroke-width="1.2"/>
+    <line x1="58" y1="859" x2="72" y2="859" stroke="#9c8a5a" stroke-width="0.8"/>
+    <line x1="58" y1="1310" x2="72" y2="1310" stroke="#9c8a5a" stroke-width="0.8"/>
+    <line x1="58" y1="1315" x2="72" y2="1315" stroke="#9c8a5a" stroke-width="1.2"/>
     <!-- top page with gutter shading -->
     <rect x="70" y="836" width="660" height="496" fill="#d8cdbc" stroke="#8a7f63" stroke-width="0.9"/>
     <rect x="70" y="836" width="9" height="496" fill="#c9bda9" opacity="0.6"/>
