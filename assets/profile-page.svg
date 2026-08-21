@@ -28,7 +28,7 @@
     <text x="260" y="368" font-size="30" font-style="italic" fill="#31331f">X<tspan font-size="30" dy="-13">&#8902;</tspan><tspan dy="13" font-style="normal">&#160;=&#160;arg&#160;min</tspan><tspan>&#160;&#160;F</tspan><tspan font-style="normal">&#160;(</tspan><tspan>X&#8242;</tspan><tspan font-style="normal">)&#160;.</tspan></text>
     <text x="385" y="396" text-anchor="middle" font-size="15" font-style="italic" fill="#31331f">X&#8242; &#8712; &#119987;</text>
 
-    <text x="270" y="442" font-size="17" fill="#31331f"><tspan font-style="italic">min</tspan> = <tspan font-weight="bold" fill="#645d3b">minimizing</tspan><tspan font-size="11" dy="-7" fill="#8a7f63">1</tspan></text>
+    <text x="270" y="442" font-size="17" fill="#31331f"><tspan font-style="italic">min</tspan> : <tspan font-weight="bold" fill="#645d3b">minimizing</tspan><tspan font-size="11" dy="-7" fill="#8a7f63">1</tspan></text>
     <text x="270" y="472" font-size="16" fill="#31331f">an <tspan font-weight="bold" fill="#645d3b">objective function</tspan> <tspan font-style="italic">F(X)</tspan></text>
     <text x="270" y="502" font-size="16" fill="#31331f"><tspan font-weight="bold" fill="#645d3b">configurations</tspan>, <tspan font-style="italic">&#119987;</tspan></text>
 
