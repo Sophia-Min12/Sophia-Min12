@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1640" viewBox="0 0 800 1640">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1684" viewBox="0 0 800 1684">
   <!-- one continuous parchment page: Sand ground, Moss + Wood double frame -->
-  <rect x="1" y="1" width="798" height="1638" fill="#E8E2DA" stroke="#31331f" stroke-width="1.5"/>
-  <rect x="14" y="14" width="772" height="1612" fill="none" stroke="#b9ad94" stroke-width="0.8"/>
+  <rect x="1" y="1" width="798" height="1682" fill="#E8E2DA" stroke="#31331f" stroke-width="1.5"/>
+  <rect x="14" y="14" width="772" height="1656" fill="none" stroke="#b9ad94" stroke-width="0.8"/>
   <defs>
     <filter id="bookshadow" x="-10%" y="-10%" width="125%" height="125%">
       <feDropShadow dx="3" dy="7" stdDeviation="8" flood-color="#31331f" flood-opacity="0.32"/>
@@ -127,16 +127,18 @@
 
     <text x="400" y="1450" text-anchor="middle" font-size="18" font-style="italic" fill="#4b4e3a">Research, AI Engineer, Full-Stack Developer</text>
 
-    <text x="400" y="1480" text-anchor="middle" font-size="13.5" fill="#31331f">LLM&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;NLP&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;RAG&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Health Care&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Physical AI&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Search &amp; Optimization</text>
-    <text x="400" y="1504" text-anchor="middle" font-size="13.5" fill="#31331f">Metaheuristics-Evolutionary Computation&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Quantum Computer&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Digital Twin&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;&#8943;</text>
+    <text x="400" y="1480" text-anchor="middle" font-size="13.5" fill="#31331f">LLM&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;NLP&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;RAG&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Health Care&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Computer Vision&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Physical AI&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Search &amp; Optimization</text>
+    <text x="400" y="1504" text-anchor="middle" font-size="13.5" fill="#31331f">Metaheuristics-Evolutionary Computation&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Quantum Computer&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;Computational Science</text>
+    <text x="400" y="1525" text-anchor="middle" font-size="11" fill="#645d3b">(Computational Physics, Computational Chemistry, Bioinformatics, Neuroscience etc.)</text>
+    <text x="400" y="1549" text-anchor="middle" font-size="13.5" fill="#31331f">Digital Twin&#160;&#160;<tspan fill="#645d3b">·</tspan>&#160;&#160;&#8943;</text>
 
-    <line x1="300" y1="1526" x2="382" y2="1526" stroke="#b9ad94" stroke-width="1"/>
-    <text x="400" y="1530.5" text-anchor="middle" font-size="10" fill="#645d3b">&#9670;</text>
-    <line x1="418" y1="1526" x2="500" y2="1526" stroke="#b9ad94" stroke-width="1"/>
+    <line x1="300" y1="1570" x2="382" y2="1570" stroke="#b9ad94" stroke-width="1"/>
+    <text x="400" y="1574.5" text-anchor="middle" font-size="10" fill="#645d3b">&#9670;</text>
+    <line x1="418" y1="1570" x2="500" y2="1570" stroke="#b9ad94" stroke-width="1"/>
 
     <!-- closing -->
-    <text x="400" y="1568" text-anchor="middle" font-size="17" font-style="italic" fill="#4b4e3a">I see the real world in 0 and 1.</text>
-    <text x="400" y="1602" text-anchor="middle" font-size="17" font-style="italic" fill="#4b4e3a">That is why I am <tspan font-style="normal" font-weight="bold" fill="#31331f">경<tspan font-family="'Century Gothic', Futura, 'Segoe UI', Arial, sans-serif" letter-spacing="-1.5">01</tspan> Min</tspan>.</text>
+    <text x="400" y="1612" text-anchor="middle" font-size="17" font-style="italic" fill="#4b4e3a">I see the real world in 0 and 1.</text>
+    <text x="400" y="1646" text-anchor="middle" font-size="17" font-style="italic" fill="#4b4e3a">That is why I am <tspan font-style="normal" font-weight="bold" fill="#31331f">경<tspan font-family="'Century Gothic', Futura, 'Segoe UI', Arial, sans-serif" letter-spacing="-1.5">01</tspan> Min</tspan>.</text>
 
   </g>
 </svg>
