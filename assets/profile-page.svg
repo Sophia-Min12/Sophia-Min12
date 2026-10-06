@@ -21,7 +21,7 @@
     <rect x="70" y="212" width="660" height="30" rx="2" fill="#645d3b"/>
     <text x="400" y="232" text-anchor="middle" font-size="12.5" letter-spacing="3" fill="#EFEAE0">&#8544;&#160;&#160;·&#160;&#160;MY GOAL OR OBJECTIVE&#160;&#8212;&#160;FURTHERMORE, OUR OBJECTIVE</text>
 
-    <text x="400" y="278" text-anchor="middle" font-size="15" font-style="italic" fill="#4b4e3a">&#8220;Whenever I was having a hard time, I reminded myself of this and got back on my feet.&#8221;</text>
+    <text x="400" y="278" text-anchor="middle" font-size="15" font-style="italic" fill="#4b4e3a">&#8220;Whenever I've had a hard time, I've reminded myself of this and gotten back on my feet.&#8221;</text>
 
     <text x="400" y="312" text-anchor="middle" font-size="12" letter-spacing="3" fill="#8a7f63">OPTIMIZING OBJECTIVE FUNCTIONS</text>
 
@@ -46,7 +46,7 @@
     <text x="400" y="710" text-anchor="middle" font-size="14" font-style="italic" fill="#4b4e3a">Behavior of living organisms (humans, animals&#8230;)&#160;&#160;<tspan font-style="normal" font-weight="bold" fill="#645d3b">VS.</tspan>&#160;&#160;Behavior of non-living things (machine, AI, robots&#8230;)</text>
 
     <text x="400" y="754" text-anchor="middle" font-size="16" font-weight="bold" letter-spacing="1" fill="#31331f">&#8220;Adversarial Search&#8221;</text>
-    <text x="400" y="780" text-anchor="middle" font-size="14" font-style="italic" fill="#4b4e3a">Ever since I was young, I enjoyed learning about things that held completely opposite information.</text>
+    <text x="400" y="780" text-anchor="middle" font-size="14" font-style="italic" fill="#4b4e3a">Ever since I was young, I have enjoyed learning about things that held completely opposite information.</text>
     <text x="400" y="804" text-anchor="middle" font-size="12.5" font-style="italic" fill="#8a7f63">ex)&#160;&#160;Min&#160;&#160;<tspan font-style="normal" font-weight="bold" fill="#645d3b">VS.</tspan>&#160;&#160;Max</text>
 
     <!-- ============ THE BOOK (hardcover) ============ -->
